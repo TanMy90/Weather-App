@@ -5,4 +5,4 @@ Weather Report is a Desktop Application that displays real time weather data of 
 
 To Run
 
-Python weather.py
+	`Python weather.py`
